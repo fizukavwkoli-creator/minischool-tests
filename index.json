@@ -1,0 +1,12 @@
+[
+  {
+    "path": "fizyka/mekhanichna-robota-8.json",
+    "title": "Механічна робота",
+    "description": "Поняття роботи, одиниці, знак роботи, задачі",
+    "subject": "Фізика",
+    "class_filter": "8",
+    "time_limit": 12,
+    "question_count": 11,
+    "tags": ["механіка", "робота", "енергія"]
+  }
+]
